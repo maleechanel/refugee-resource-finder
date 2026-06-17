@@ -59,7 +59,7 @@ The system prompt instructs Claude to:
 
 Requirements: Python 3.9 or higher, an Anthropic API key
 
-  git clone https://github.com/maleechanel/refugee-resource-finder.git
+  git clone https://github.com/sumaleesimmonds/refugee-resource-finder.git
   cd refugee-resource-finder
   pip3 install anthropic
   export ANTHROPIC_API_KEY="sk-ant-your-key-here"
